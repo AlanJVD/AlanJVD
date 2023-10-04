@@ -1,6 +1,6 @@
 ### Hello there, I'm Alan 👾
 
-I am a Front-end from Mexico. I aim to enhance my skills everyday in order to achieve the best version of myself.
+I am a Front-end developer from Mexico. I aim to enhance my skills everyday in order to achieve the best version of myself.
 
 
 - 🔭 I'm currently working on a college information system and developing a website for a travel company.
