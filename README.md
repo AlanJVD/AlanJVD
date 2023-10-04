@@ -5,9 +5,11 @@ I am a Front-end from Mexico. I aim to enhance my skills everyday in order to ac
 
 - 🔭 I'm currently working on a college information system and developing a website for a travel company.
 - 🌱 I’m currently learning Python with the aim of becoming a full-stack developer.
+- 
+---
 
 ###Languages and Tools:
-<code><img height="20" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
+<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
 <!--
 **AlanJVD/AlanJVD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
