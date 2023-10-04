@@ -23,6 +23,7 @@ I am a Front-end from Mexico. I aim to enhance my skills everyday in order to ac
 
 ### Stats:
 ![AlanJVD's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlanJVD&show_icons=true&theme=tokyonight&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanJVD&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **AlanJVD/AlanJVD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
