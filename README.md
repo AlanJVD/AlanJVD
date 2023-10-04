@@ -22,7 +22,7 @@ I am a Front-end from Mexico. I aim to enhance my skills everyday in order to ac
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg"></code>
 
 ### Stats:
-![AlanJVD's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlanJVD&show_icons=true&theme=tokyonight)
+![AlanJVD's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlanJVD&show_icons=true&theme=tokyonight&hide_border=true)
 
 <!--
 **AlanJVD/AlanJVD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
