@@ -21,6 +21,8 @@ I am a Front-end from Mexico. I aim to enhance my skills everyday in order to ac
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg"></code>
 
+---
+
 ### Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanJVD&layout=donut&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 ![AlanJVD's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlanJVD&show_icons=true&theme=tokyonight&hide_border=true)
